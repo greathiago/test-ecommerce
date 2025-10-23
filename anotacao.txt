@@ -1,0 +1,1 @@
+"$env:USERPROFILE\scoop\apps\supabase\current\supabase.exe"
